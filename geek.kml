@@ -1,0 +1,10 @@
+<Placemark>
+<name>142.250.194.78</name>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<styleUrl>#transBluePoly</styleUrl>
+<LineString>
+<coordinates>-122.057400,37.419200
+8.000000,47.000000</coordinates>
+</LineString>
+</Placemark>
